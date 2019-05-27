@@ -48,7 +48,7 @@ body{
 .logo {
   border-top: 5px solid#fff;
   border-bottom: 5px solid#fff;
-  width: 28%;
+  width: 34%;
   margin: 15em auto 0;
 }
 .logo a {
@@ -1957,4 +1957,5 @@ a.b-home {
 .contact-form-row div input[type="text"] {
   width: 100%;
   padding: 0.5em;
+}
 }
