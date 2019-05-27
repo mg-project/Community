@@ -1,4 +1,4 @@
-# EarthDay
+# A Community of Shared Future for Mankind
 Maogai's homework project
 
 ## 项目目标
