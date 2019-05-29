@@ -745,8 +745,8 @@ a.button1 {
 }
 .error-404 p{
 	color: #090909;
-	margin: 0;
-	font-size: 1.2em;
+  margin: 10px 250px;
+	font-size: 1.3em;
 	text-transform: uppercase;
 } 
 a.b-home{
@@ -807,7 +807,8 @@ a.b-home:hover{
 	border:1px solid #EEE;
 	-webkit-appearance:none;
 	outline:none;
-	color:#777;
+  color:#777;
+  background: #eeffe8;
 	transition:border-color 0.4s;
 	-webkit-transition:border-color 0.4s;
 	-moz-transition:border-color 0.4s;
@@ -827,7 +828,8 @@ a.b-home:hover{
 	font-family: 'Droid Sans', sans-serif;
 	border:1px solid #EEE;
 	-webkit-appearance:none;
-	outline:none;
+  outline:none;
+  background: #eeffe8;
 	color:#777;
 	min-height:320px;
 	resize:none;
@@ -1959,5 +1961,14 @@ a.b-home {
 .contact-form-row div input[type="text"] {
   width: 100%;
   padding: 0.5em;
+}
+.img-r{
+  vertical-align: middle;
+}
+.img-rl{
+  vertical-align: left;
+}
+.img-rr{
+  vertical-align: right;
 }
 }
